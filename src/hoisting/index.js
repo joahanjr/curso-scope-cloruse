@@ -9,3 +9,5 @@ function nameOfDog(){
     console.log("el mejor perro del mundo es: " + herName);
 }
 var herName = "max";
+
+// es solo para probar
